@@ -3,7 +3,7 @@
     "description": "devan-ser is the Modified Version of WhatsAsena, Made By @devan-x-i with Baileys.",
     "logo": "https://i.imgur.com/VRkoyg2.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Ajmal-Achu/Nandhutty_v2",
+    "repository": "https://github.com/devan-x-i/Nandhutty_v2",
     "stack": "container",
     "env": {
         "JULIE_SESSION": {
